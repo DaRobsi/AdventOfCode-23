@@ -1,7 +1,3 @@
-RED_MAX = 12
-GREEN_MAX = 13
-BLUE_MAX = 14
-
 counter = 0
 
 with open("input.txt", "r") as file:
